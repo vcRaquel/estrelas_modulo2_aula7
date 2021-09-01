@@ -12,7 +12,7 @@ public class Exercicio9 {
 
         int contador = 1;
         int contadorExibir = 9; //por conta do número de índices que começa a contar do 0
-        int finalExibir = 0;
+        int finalExibir = 0; // será 0 e não 1 por conta do índice 0
         int totalNumeros = 10;
         int valorLido = 0;
 
