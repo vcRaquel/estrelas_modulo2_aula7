@@ -1,5 +1,5 @@
 package br.com.zup;
-
+//Faça um Programa que leia uma lista de 5 números inteiros e mostre-os.
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

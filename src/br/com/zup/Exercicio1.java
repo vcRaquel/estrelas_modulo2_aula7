@@ -1,7 +1,9 @@
 package br.com.zup;
 
 import java.util.Scanner;
-
+//Faça um programa que pergunte o preço de três produtos
+// e informe qual produto você deve comprar,
+// sabendo que a decisão é sempre pelo mais barato.
 public class Exercicio1 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

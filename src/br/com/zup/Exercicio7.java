@@ -1,7 +1,8 @@
 package br.com.zup;
 
 import java.util.Scanner;
-
+//Faça um programa que receba dois números inteiros
+// e gere os números inteiros que estão no intervalo compreendido por eles.
 public class Exercicio7 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

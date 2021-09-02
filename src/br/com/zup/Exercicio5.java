@@ -1,7 +1,7 @@
 package br.com.zup;
 
 import java.util.Scanner;
-
+//Faça um programa que leia 5 números e informe o maior número.
 public class Exercicio5 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

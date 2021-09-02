@@ -3,7 +3,7 @@ package br.com.zup;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//Faça um Programa que leia uma lista de 10 números e mostre-os na ordem inversa.
 public class Exercicio9 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

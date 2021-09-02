@@ -3,7 +3,7 @@ package br.com.zup;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
 public class Exercicio10 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
